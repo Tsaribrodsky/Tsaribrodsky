@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm currently studing Software Design :smiley:
+I'm currently studying Software Design :smiley:
